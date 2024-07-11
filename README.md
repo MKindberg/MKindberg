@@ -31,10 +31,14 @@ Got curious about language servers and started exploring what they can do.
 Noticed that there was a lot of duplicate code in the servers and extraced the common code into a library which simplified a lot.
 
 ### [censor-ls](https://github.com/mkindberg/censor-ls)
+<img src="https://github.com/user-attachments/assets/dc45b43a-1fcd-430a-9f17-6def7352afc2" alt="censor-ls config and warnings" width="60%" align=left />
 Makes it easier to avoid using user specified words by marking them with a diagnositc in the editor and possibly suggesting alternative words to use.
+</br></br></br>
 
 ### [test-ls](https://github.com/mkindberg/test-ls)
+<img src="https://github.com/user-attachments/assets/4096507b-defd-4325-834e-c7c2bcd99f07" alt="test-ls results" width="30%" align=right />
 Automatically run Zig unit tests on save and report the results though diagnostics and hover text.
+</br></br></br></br>
 
 ## Tutorials
 ### [monkeylang](https://github.com/mkindberg/monkeylang)
