@@ -10,13 +10,14 @@ A tool for downloading commits from Gerrit without leaving the terminal. Makes i
 
 ### [openhab-tui](https://github.com/mkindberg/openhab-tui)
 <img src="https://github.com/user-attachments/assets/a7e6160e-dd37-4d2d-a193-bbfc2dc1d2d0" alt="openhab_tui example" width="30%" align=left />
- An exporation of Go and [Charm](https://charm.sh/) to create a TUI that can be used to control lights and other smart things connected to openHAB. The TUI can either be started manually when needed or on a server and accessed over ssh.
-</br></br></br></br></br></br>
+An exporation of Go and <a href=https://charm.sh/>Charm</a> to create a TUI that can be used to control lights and other smart things connected to openHAB. The TUI can either be started manually when needed or on a server and accessed over ssh.
+
+</br></br></br></br></br>
 
 ### [truss](https://github.com/mkindberg/truss)
 <img src="https://github.com/MKindberg/truss/assets/6180175/1c0b3d53-6b02-4164-8e5f-f4fa5804a464" alt="Truss feed selection" width="60%" align=right />
-Played around with RSS and wrote an rss reader that runs in the terminal.
-</br></br></br></br></br>
+Played around with RSS and wrote an rss reader that runs in the terminal. It allows the user to fuzzy search among the subscribed feeds and their articles.
+</br></br></br></br>
 
 ## Services
 Some tools doesn't need an interface.
@@ -28,7 +29,7 @@ Wanted a way to start Sonos speakers and openhab things at a specific time witho
 Got curious about language servers and started exploring what they can do.
 
 ### [zig-lsp-server](https://github.com/mkindberg/zig-lsp-server)
-Noticed that there was a lot of duplicate code in the servers and extraced the common code into a library which simplified a lot.
+Noticed that there was a lot of duplicated code in the servers and extraced the common code into a library which simplified a lot.
 
 ### [censor-ls](https://github.com/mkindberg/censor-ls)
 <img src="https://github.com/user-attachments/assets/dc45b43a-1fcd-430a-9f17-6def7352afc2" alt="censor-ls config and warnings" width="60%" align=left />
