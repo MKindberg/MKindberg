@@ -27,7 +27,7 @@ Noticed that there was a lot of duplicate code in the servers and extraced the c
 Makes it easier to avoid using user specified words by marking them with a diagnositc in the editor and possibly suggesting alternative words to use.
 
 ### [test-ls](https://github.com/mkindberg/test-ls)
-Automatically run Zig unit tests on save and report.
+Automatically run Zig unit tests on save and report the results though diagnostics and hover text.
 
 ## Tutorials
 ### [monkeylang](https://github.com/mkindberg/monkeylang)
