@@ -4,15 +4,22 @@ My more useful/interesting repos
 ## Cli applications
 A collection of more or less useful cli applications. Mostly created to explore a topic or two but some (eg grt) turned out to be surprisingly useful.
 ### [grt](https://github.com/mkindberg/grt)
-<img src="https://github.com/MKindberg/grt/assets/6180175/b3545488-0092-401b-985d-1b5e888d1243" alt="Alt Text" width="60%" align=right />
+<img src="https://github.com/MKindberg/grt/assets/6180175/b3545488-0092-401b-985d-1b5e888d1243" alt="grt commit selection" width="60%" align=right />
 A tool for downloading commits from Gerrit without leaving the terminal. Makes it simpler to download multiple commits or topics.
 </br></br></br></br>
 
 ### [openhab-tui](https://github.com/mkindberg/openhab-tui)
- An exporation of Go and [Charm](https://charm.sh/) to create a TUI that can be used to control lights and other smart things connected to openHAB.
+<img src="https://github.com/user-attachments/assets/a7e6160e-dd37-4d2d-a193-bbfc2dc1d2d0" alt="openhab_tui example" width="30%" align=left />
+ An exporation of Go and [Charm](https://charm.sh/) to create a TUI that can be used to control lights and other smart things connected to openHAB. The TUI can either be started manually when needed or on a server and accessed over ssh.
+</br></br></br></br></br></br>
 
 ### [truss](https://github.com/mkindberg/truss)
+<img src="https://github.com/MKindberg/truss/assets/6180175/1c0b3d53-6b02-4164-8e5f-f4fa5804a464" alt="Truss feed selection" width="60%" align=right />
 Played around with RSS and wrote an rss reader that runs in the terminal.
+</br></br></br></br></br>
+
+## Services
+Some tools doesn't need an interface.
 
 ### [good_morning](https://github.com/mkindberg/good_morning)
 Wanted a way to start Sonos speakers and openhab things at a specific time without having to set an alarm in multiple apps.
