@@ -9,7 +9,7 @@ A tool for downloading commits from Gerrit without leaving the terminal. Makes i
 </br></br></br></br>
 
 ### [openhab-tui](https://github.com/mkindberg/openhab-tui)
- An exporation of Go and Charm to create a TUI that can be used to control lights and other smart things connected to openHAB.
+ An exporation of Go and [Charm](https://charm.sh/) to create a TUI that can be used to control lights and other smart things connected to openHAB.
 
 ### [truss](https://github.com/mkindberg/truss)
 Played around with RSS and wrote an rss reader that runs in the terminal.
@@ -18,7 +18,7 @@ Played around with RSS and wrote an rss reader that runs in the terminal.
 Wanted a way to start Sonos speakers and openhab things at a specific time without having to set an alarm in multiple apps.
 
 ## Language servers
-Got curious about language servers and started exploring what they can to
+Got curious about language servers and started exploring what they can do.
 
 ### [zig-lsp-server](https://github.com/mkindberg/zig-lsp-server)
 Noticed that there was a lot of duplicate code in the servers and extraced the common code into a library which simplified a lot.
@@ -31,7 +31,7 @@ Automatically run Zig unit tests on save and report.
 
 ## Tutorials
 ### [monkeylang](https://github.com/mkindberg/monkeylang)
-Exploring how compilers work by following the books "Writing an interpreter in Go" and "Writing a compiler in Go" but changing the language to Rust.
+Exploring how compilers work by following the books [Writing an interpreter in Go](https://interpreterbook.com/) and [Writing a compiler in Go](https://compilerbook.com/) but changing the language to Rust.
 
 ### [zig-kilo](https://github.com/mkindberg/zig-kilo)
 Was curious about how text editors worked, followed [this tutorial](https://viewsourcecode.org/snaptoken/kilo/) but wrote it in Zig. Also started to add some additional small features.
