@@ -26,9 +26,8 @@ Some tools doesn't need an interface.
 Wanted a way to start Sonos speakers and openhab things at a specific time without having to set an alarm in multiple apps.
 
 ## Language servers
-Got curious about language servers and started exploring what they can do.
-
-### [zig-lsp-server](https://github.com/mkindberg/zig-lsp-server)
+I've had a lot of fun playing around with language servers and I really like the idea of tools that integrate so seamlessly in your workflow. 
+### [zig-lsp-server](https://github.com/mkindberg/zig-lsfw)
 Noticed that there was a lot of duplicated code in the servers and extraced the common code into a library which simplified a lot.
 
 ### [censor-ls](https://github.com/mkindberg/censor-ls)
